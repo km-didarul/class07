@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mane{
+    background-color: aqua;
+    background-image: url(./photo.jpg);
+    width: 800px;
+    height: 500px;
+    position: relative;
+}
+.div-1{
+    background-color: rgb(59, 53, 53);
+    width: 10px;
+    height: 400px;
+    position: absolute;
+    bottom: 40px;
+    left: 230px;
+}
+.div-2{
+    background-color: green;
+    width: 250px;
+    height: 150px;
+    position: absolute;
+    left: 240px;
+    top: 75px;
+}
+.div-3{
+    background-color: red;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    position: absolute;
+    left: 310px;
+    top: 90px;
+
+}
+.div-4{
+    background-color: rgb(59, 53, 53);
+    position: absolute;
+    width: 60px;
+    height: 40px;
+    bottom: 0;
+    left: 204px;
+}
+.div-5{
+    background-color: rgb(59, 53, 53);
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    top: 40px;
+    left: 223px;
+}
